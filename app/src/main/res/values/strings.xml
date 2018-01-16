@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ratebook</string>
+    <string name="activity_main_alert_rating_title">Rating</string>
+</resources>
